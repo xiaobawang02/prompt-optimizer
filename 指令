@@ -1,0 +1,5 @@
+pnpm dev
+
+git add .
+git commit -m "docs: 修改了变量环境"
+git push origin master
